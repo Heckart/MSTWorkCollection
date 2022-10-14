@@ -1,0 +1,11 @@
+1a: bash compiley.sh program.cpp hello
+1b: the compile file function is called that passes the arguments to g++. The first argument is passed as the file to compile, while the second is passed as the name of the new executable
+
+2a: no
+2b: even with quotes, "my" is still counted as a different argument instead of "my program" being counted as one argument
+
+3a: no
+3b: $@ is taken as a string
+
+4a: yes
+4b: $@ is does not have its arguments broken by whitespace
