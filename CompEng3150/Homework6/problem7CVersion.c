@@ -11,7 +11,7 @@ TCCR0 = 0x06; // Timer 0 falling-edge counter
 While(1)
 {
 PORTC = TCNT0;
-If (TIFR & 1<<TOV0)  // note that this if statement is not included in the assembly 
+If (TIFR & 1<<TOV0)  // this if statement is not included in the assembly 
 // program above, this if statement shows how to reset the counter after the counter 
 // has overflowed
 {    
