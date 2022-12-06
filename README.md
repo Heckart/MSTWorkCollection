@@ -24,4 +24,4 @@ The following classes have involved some form of programming. All of it (that I 
 
 ## COMP SCI 1585 Data Structures Laboratory (LAB 1.0)
 ### Hands-on instruction in programming development tools such as version control systems, integrated development environments, debuggers, profilers, and event-based programming environments. Exercises will complement the concepts presented in Comp Sci 1575. Prerequisite: Preceded or accompanied by Comp Sci 1575.
-**Languages used: Bash, C++, & makefile**
+**Languages used: Bash, C++, & Make**
